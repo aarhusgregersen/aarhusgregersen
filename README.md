@@ -118,16 +118,16 @@ Sunday       10 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-TypeScript               8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-backend                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -148,7 +148,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/aarhusgregersen/aarhusgregersen/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/07/2021
+ Last Updated on 24/07/2021
 <!--END_SECTION:waka-->
 
 
