@@ -50,6 +50,8 @@
 ---
 
 ### 📕 Latest Blog Posts
+<!-- TODO: Finalize implementation -->
+<!-- https://github.com/marketplace/actions/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
