@@ -1,4 +1,4 @@
-![.github/workflows/update-readme.yml](https://github.com/aarhusgregersen/aarhusgregersen/workflows/.github/workflows/update-readme.yml/badge.svg)
+[![Update readme development stats](https://github.com/aarhusgregersen/aarhusgregersen/actions/workflows/update-readme.yml/badge.svg)](https://github.com/aarhusgregersen/aarhusgregersen/actions/workflows/update-readme.yml)
 
 <br>
 
