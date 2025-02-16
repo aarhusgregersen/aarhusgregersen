@@ -2,14 +2,13 @@
 
 <br>
 
-
-
 ### Hi there, I'm Martin - aka [aarhusgregersen][website] 👋
 
-## I'm a full time Webdeveloper, part time streamer & 100% Nerd!
-- 🔭 I’m currently working @ [IntroDus][workwebsite]!
-- 🌱 I’m currently learning nodeJS & Angular
-- 🥅 2020 Goals: Getting ready for my first marathon 🏃‍♂️
+## I'm a full stack developer, avid learner and a lover of coffee ☕
+
+- 🔭 I’m currently working @ [Flextribe][workwebsite]!
+- 🌱 I’m currently diving deep on exploring new topics: how do third party snippet APIs REALLY work?
+- 🥅 2025 Goals: Launching 12 articles on my blog, and an Angular library
 - ⚡ Fun fact: I love quiet mornings, learning new things & black coffee ☕
 
 ### Connect with me:
@@ -50,6 +49,7 @@
 ---
 
 ### 📕 Latest Blog Posts
+
 <!-- TODO: Finalize implementation -->
 <!-- https://github.com/marketplace/actions/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
@@ -73,6 +73,7 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-273893%20lines%20of%20code-blue)
@@ -80,16 +81,16 @@
 **🐱 My GitHub Data**
 
 > 🏆 27 Contributions in the Year 2021
- >
+>
 > 📦 80.1 kB Used in GitHub's Storage
- >
+>
 > 🚫 Not Opted to Hire
- >
+>
 > 📜 43 Public Repositories
- >
+>
 > 🔑 8 Private Repositories
- >
-**I'm an Early 🐤**
+>
+> **I'm an Early 🐤**
 
 ```text
 🌞 Morning    36 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.18%
@@ -98,6 +99,7 @@
 🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
 
 ```
+
 📅 **I'm Most Productive on Monday**
 
 ```text
@@ -110,7 +112,6 @@ Saturday     25 commits     ███░░░░░░░░░░░░░░�
 Sunday       12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.06%
 
 ```
-
 
 📊 **This Week I Spent My Time On**
 
@@ -148,17 +149,14 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 ```
 
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/aarhusgregersen/aarhusgregersen/master/charts/bar_graph.png)
 
+Last Updated on 16/02/2025
 
- Last Updated on 23/11/2021
 <!--END_SECTION:waka-->
 
-
-
 [website]: https://mgregersen.dk
-[workwebsite]: https://introdus.dk
+[workwebsite]: https://www.flextribe.io/
 [linkedin]: https://www.linkedin.com/in/martinaarhus/
