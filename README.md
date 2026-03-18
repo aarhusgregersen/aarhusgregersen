@@ -53,6 +53,11 @@
 <!-- TODO: Finalize implementation -->
 <!-- https://github.com/marketplace/actions/blog-post-workflow -->
 <!-- BLOG-POST-LIST:START -->
+- [Angular vs React: An Honest Review After 6 Years With Both](https://mgregersen.dk/angular-versus-react-honest-review/)
+- [How to Fix the “Nest Can’t Resolve Dependencies” Error in NestJS](https://mgregersen.dk/how-to-fix-the-nest-cant-resolve-dependencies-error-in-nestjs/)
+- [How I debugged Chaos in our CI pipeline](https://mgregersen.dk/how-i-debugged-chaos-in-our-ci-pipeline/)
+- [Upgrading Prisma to Rust-free client in NestJS](https://mgregersen.dk/upgrading-prisma-to-rust-free-client-in-nestjs/)
+- [Dockerizing and hosting a NestJS application](https://mgregersen.dk/dockerizing-and-hosting-a-nestjs-application/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
