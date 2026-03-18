@@ -6,9 +6,9 @@
 
 ## I'm a full stack developer, avid learner and a lover of coffee ☕
 
-- 🔭 I’m currently working @ [Flextribe][workwebsite]!
-- 🌱 I’m currently diving deep on exploring new topics: how do third party snippet APIs REALLY work?
-- 🥅 2025 Goals: Launching 12 articles on my blog, and an Angular library
+- 🔭 I’m currently working @ [Spaak Technologies][workwebsite]!
+- 🌱 I’m currently diving deep on building complex AI analysis engines without killing our server
+- 🥅 2026 Goals: Read 1-2 of the best programming books (as a self taught programmer, I never did)
 - ⚡ Fun fact: I love quiet mornings, learning new things & black coffee ☕
 
 ### Connect with me:
@@ -158,5 +158,5 @@ Last Updated on 16/02/2025
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
-[workwebsite]: https://www.flextribe.io/
+[workwebsite]: https://www.spaak.ai/
 [linkedin]: https://www.linkedin.com/in/martinaarhus/
