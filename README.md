@@ -76,87 +76,88 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C782%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C783%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.18%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage
->
-> 🏆 564 Contributions in the Year 2026
->
+> 📦 102.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 566 Contributions in the Year 2026
+ > 
 > 🚫 Not Opted to Hire
->
-> 📜 47 Public Repositories
->
-> 🔑 0 Private Repositories
->
-> **I'm an Early 🐤**
+ > 
+> 📜 47 Public Repositories 
+ > 
+> 🔑 20 Private Repositories 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13412 commits       ████████░░░░░░░░░░░░░░░░░   30.31 %
-🌆 Daytime                25582 commits       ██████████████░░░░░░░░░░░   57.81 %
-🌃 Evening                5099 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
-🌙 Night                  156 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+🌞 Morning                13414 commits       ████████░░░░░░░░░░░░░░░░░   30.31 % 
+🌆 Daytime                25587 commits       ██████████████░░░░░░░░░░░   57.82 % 
+🌃 Evening                5099 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+🌙 Night                  156 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
-
-📅 **I'm Most Productive on Monday**
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   10300 commits       ██████░░░░░░░░░░░░░░░░░░░   23.28 %
-Tuesday                  6719 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 %
-Wednesday                7166 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
-Thursday                 9319 commits        █████░░░░░░░░░░░░░░░░░░░░   21.06 %
-Friday                   8895 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 %
-Saturday                 938 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Sunday                   912 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Monday                   10300 commits       ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+Tuesday                  6719 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Wednesday                7168 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Thursday                 9324 commits        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Friday                   8895 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Saturday                 938 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Sunday                   912 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Copenhagen
 
-💬 Programming Languages:
-TypeScript               4 hrs 37 mins       ████████████████░░░░░░░░░   63.94 %
-Markdown                 1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   22.46 %
-Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+💬 Programming Languages: 
+TypeScript               4 hrs 37 mins       ████████████████░░░░░░░░░   63.94 % 
+Markdown                 1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+Bash                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
-🔥 Editors:
-VS Code                  5 hrs 16 mins       ██████████████████░░░░░░░   73.01 %
-Claude Code              1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   26.99 %
+🔥 Editors: 
+VS Code                  5 hrs 16 mins       ██████████████████░░░░░░░   73.01 % 
+Claude Code              1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   26.99 % 
 
-🐱‍💻 Projects:
-hamilton                 5 hrs 7 mins        ██████████████████░░░░░░░   70.85 %
-seomachine               58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 %
-norlix                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-worktree-cli             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-aarhusgregersen          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+🐱‍💻 Projects: 
+hamilton                 5 hrs 7 mins        ██████████████████░░░░░░░   70.85 % 
+seomachine               58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+norlix                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+worktree-cli             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+aarhusgregersen          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
-💻 Operating System:
-Mac                      7 hrs 13 mins       █████████████████████████   100.00 %
+💻 Operating System: 
+Mac                      7 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in TypeScript**
+**I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               24 repos            █████████░░░░░░░░░░░░░░░░   35.82 %
-Ruby                     18 repos            ███████░░░░░░░░░░░░░░░░░░   26.87 %
-JavaScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.91 %
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+TypeScript               24 repos            █████████░░░░░░░░░░░░░░░░   35.82 % 
+Ruby                     18 repos            ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+JavaScript               12 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
+
+
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/aarhusgregersen/aarhusgregersen/master/assets/bar_graph.png)
 
-Last Updated on 19/03/2026 12:29:11 UTC
 
+ Last Updated on 19/03/2026 13:13:44 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
