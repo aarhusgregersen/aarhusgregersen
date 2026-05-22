@@ -80,6 +80,8 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C966%20hrs%204%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.73%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -159,7 +161,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aarhusgregersen/aarhusgregersen/master/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 23:53:40 UTC
+ Last Updated on 22/05/2026 23:57:10 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
