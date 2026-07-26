@@ -80,13 +80,15 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.91%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C171%20hrs%2019%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.37%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 108.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,662 Contributions in the Year 2026
+> 🏆 1,666 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,6 +96,55 @@
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2733 commits        ████████░░░░░░░░░░░░░░░░░   33.98 % 
+🌆 Daytime                3671 commits        ███████████░░░░░░░░░░░░░░   45.64 % 
+🌃 Evening                1542 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+🌙 Night                  98 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   1384 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Tuesday                  1417 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+Wednesday                1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Thursday                 1536 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Friday                   1123 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Saturday                 739 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Sunday                   606 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Copenhagen
+
+💬 Programming Languages: 
+TypeScript               15 hrs 49 mins      █████████████░░░░░░░░░░░░   51.34 % 
+Markdown                 3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+YAML                     3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Other                    2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Docker                   1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+
+🔥 Editors: 
+Claude Code              29 hrs 15 mins      ████████████████████████░   94.93 % 
+Notion                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+VS Code                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+
+🐱‍💻 Projects: 
+cleaning                 11 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   38.65 % 
+mono                     6 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+intranet                 5 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+backend                  2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+mgregersendk             59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+
+💻 Operating System: 
+Mac                      30 hrs 49 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -111,7 +162,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aarhusgregersen/aarhusgregersen/master/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 01:25:42 UTC
+ Last Updated on 26/07/2026 01:30:34 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
