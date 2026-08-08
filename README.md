@@ -80,13 +80,17 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.71%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C101%20hrs%2034%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-492%20hrs%2039%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 109.3 kB Used in GitHub's Storage 
+> 📦 109.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,780 Contributions in the Year 2026
+> 🏆 1,828 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,6 +98,81 @@
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3792 commits        █████████░░░░░░░░░░░░░░░░   34.70 % 
+🌆 Daytime                5494 commits        █████████████░░░░░░░░░░░░   50.27 % 
+🌃 Evening                1547 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+🌙 Night                  95 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   1730 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Tuesday                  2004 commits        █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
+Wednesday                1549 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Thursday                 2159 commits        █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Friday                   2206 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+Saturday                 706 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Sunday                   574 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Copenhagen
+
+💬 Programming Languages: 
+TypeScript               12 hrs 20 mins      ████████████░░░░░░░░░░░░░   49.28 % 
+Markdown                 4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Other                    3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+JavaScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+
+🔥 Editors: 
+Claude Code              23 hrs 21 mins      ███████████████████████░░   93.22 % 
+Notion                   1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+
+🐱‍💻 Projects: 
+cleaning                 13 hrs 24 mins      █████████████░░░░░░░░░░░░   53.50 % 
+backend                  5 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+intranet                 2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+product-research         1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+knowledge-feed           43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+
+💻 Operating System: 
+Mac                      25 hrs 3 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 23 hrs 53 mins (95.38%)
+
+✍️ 14,163 lines written by AI, 281 lines written by hand (98.05% AI-written)
+
+🔤 425,912,563 Input Tokens, 1,549,123 Output Tokens
+
+💵 $2124.86 Estimated AI Cost This Week
+
+🧠 98 AI Sessions, 298 AI Prompts
+
+Opus                     15,787 lines        █████████████████████████   98.79 % 
+Sonnet                   149 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Fable                    45 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.05% of written lines came from AI
+📚 Verbose Prompter — average 2,026 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.73% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -111,7 +190,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aarhusgregersen/aarhusgregersen/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:18:11 UTC
+ Last Updated on 08/08/2026 00:27:45 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
