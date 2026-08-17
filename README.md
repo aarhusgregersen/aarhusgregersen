@@ -125,50 +125,50 @@ Sunday                   916 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-TypeScript               8 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-Markdown                 7 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-JSON                     3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-YAML                     3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Other                    2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+TypeScript               7 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Markdown                 6 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
+JSON                     3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+YAML                     3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Other                    1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 🔥 Editors: 
-Claude Code              28 hrs 2 mins       ███████████████████████░░   93.19 % 
-VS Code                  1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-Notion                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Claude Code              24 hrs 52 mins      ███████████████████████░░   92.37 % 
+VS Code                  1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Notion                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🐱‍💻 Projects: 
-mono                     17 hrs 54 mins      ███████████████░░░░░░░░░░   59.51 % 
-cleaning                 10 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   34.74 % 
-backend                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-claude-marketplace       13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-skopje                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+mono                     17 hrs 58 mins      █████████████████░░░░░░░░   66.75 % 
+cleaning                 7 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+backend                  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+macau                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+skopje                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Mac                      30 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      26 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 53 mins (95.98%)
+⏱ AI Coding Time: 25 hrs 38 mins (95.23%)
 
-✍️ 10,961 lines written by AI, 4 lines written by hand (99.96% AI-written)
+✍️ 11,518 lines written by AI, 3 lines written by hand (99.97% AI-written)
 
-🔤 13,681,916 Input Tokens, 2,030,744 Output Tokens
+🔤 16,504,305 Input Tokens, 2,282,489 Output Tokens
 
-💵 $373.31 Estimated AI Cost This Week
+💵 $423.46 Estimated AI Cost This Week
 
-🧠 123 AI Sessions, 465 AI Prompts
+🧠 110 AI Sessions, 506 AI Prompts
 
-Opus                     11,300 lines        ███████████████████████░░   93.52 % 
-Fable                    783 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     12,784 lines        █████████████████████████   99.97 % 
+Haiku                    4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 1,551 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 1,761 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -188,7 +188,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aarhusgregersen/aarhusgregersen/master/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 00:16:39 UTC
+ Last Updated on 17/08/2026 00:15:44 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
