@@ -80,17 +80,17 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C208%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C213%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-616%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-622%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-306.69%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-296.88%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 110.7 kB Used in GitHub's Storage 
+> 📦 110.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2,317 Contributions in the Year 2026
+> 🏆 2,332 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,21 +101,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9364 commits        ████████░░░░░░░░░░░░░░░░░   31.86 % 
-🌆 Daytime                17110 commits       ███████████████░░░░░░░░░░   58.22 % 
-🌃 Evening                2798 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-🌙 Night                  116 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+🌞 Morning                9509 commits        ████████░░░░░░░░░░░░░░░░░   32.30 % 
+🌆 Daytime                16891 commits       ██████████████░░░░░░░░░░░   57.38 % 
+🌃 Evening                2917 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+🌙 Night                  119 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6454 commits        █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Tuesday                  4487 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Wednesday                3618 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Thursday                 7542 commits        ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
-Friday                   4939 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Saturday                 1282 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Sunday                   1066 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Monday                   6350 commits        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Tuesday                  4472 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Wednesday                3609 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Thursday                 7534 commits        ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+Friday                   4989 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Saturday                 1353 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Sunday                   1129 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 ```
 
 
@@ -192,7 +192,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aarhusgregersen/aarhusgregersen/master/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 01:55:49 UTC
+ Last Updated on 08/09/2026 02:13:24 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
