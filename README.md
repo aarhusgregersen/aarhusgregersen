@@ -80,17 +80,17 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C261%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C265%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-688%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-694%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-772.35%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-791.09%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 111.4 kB Used in GitHub's Storage 
  > 
-> 🏆 2,761 Contributions in the Year 2026
+> 🏆 2,811 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,21 +101,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                20738 commits       ████████░░░░░░░░░░░░░░░░░   32.65 % 
-🌆 Daytime                38982 commits       ███████████████░░░░░░░░░░   61.38 % 
-🌃 Evening                3685 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-🌙 Night                  107 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+🌞 Morning                21326 commits       ████████░░░░░░░░░░░░░░░░░   32.76 % 
+🌆 Daytime                40001 commits       ███████████████░░░░░░░░░░   61.44 % 
+🌃 Evening                3675 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+🌙 Night                  104 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   15120 commits       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Tuesday                  9506 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Wednesday                7816 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Thursday                 17694 commits       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-Friday                   11251 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Saturday                 1219 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Sunday                   906 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Monday                   15521 commits       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+Tuesday                  9713 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Wednesday                8226 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Thursday                 18124 commits       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
+Friday                   11529 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Saturday                 1155 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Sunday                   838 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 ```
 
 
@@ -176,11 +176,11 @@ Fable                    978 lines           ███░░░░░░░░�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               39 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
-Ruby                     18 repos            █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+TypeScript               39 repos            ███████████░░░░░░░░░░░░░░   42.39 % 
+Ruby                     18 repos            █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
@@ -190,7 +190,7 @@ Python                   2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/aarhusgregersen/aarhusgregersen/master/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 02:57:14 UTC
+ Last Updated on 24/09/2026 02:51:00 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
