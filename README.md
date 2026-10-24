@@ -80,15 +80,15 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C362%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C362%20hrs%2025%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-812%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-813%20hrs%205%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 113.0 kB Used in GitHub's Storage 
  > 
-> 🏆 3,719 Contributions in the Year 2026
+> 🏆 3,722 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,46 +102,45 @@
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-Markdown                 6 hrs 56 mins       ████████████░░░░░░░░░░░░░   46.06 % 
-Other                    4 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-TypeScript               1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Text                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Other                    3 hrs 37 mins       ████████████░░░░░░░░░░░░░   48.80 % 
+Markdown                 2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+TypeScript               46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 5 mins       █████████████████████████   100.00 % 
+Claude Code              7 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mono                     12 hrs 14 mins      ████████████████████░░░░░   81.16 % 
-cleaning                 1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-flow-engine              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-docker                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-hq                       14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+mono                     5 hrs 7 mins        █████████████████░░░░░░░░   69.13 % 
+cleaning                 1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+flow-engine              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+dotfiles                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 💻 Operating System: 
-Mac                      15 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 5 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 25 mins (100.0%)
 
-✍️ 2,150 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,773 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 20,616,416 Input Tokens, 2,183,755 Output Tokens
+🔤 11,774,292 Input Tokens, 1,002,496 Output Tokens
 
-💵 $258.82 Estimated AI Cost This Week
+💵 $137.23 Estimated AI Cost This Week
 
-🧠 70 AI Sessions, 220 AI Prompts
+🧠 38 AI Sessions, 76 AI Prompts
 
-Opus                     2,232 lines         █████████████████████████   100.00 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,819 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,474 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 1,741 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -158,7 +157,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 01:40:48 UTC
+ Last Updated on 24/10/2026 01:43:57 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
