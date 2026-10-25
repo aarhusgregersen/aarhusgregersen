@@ -55,11 +55,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Am I a high agency individual?](https://www.mgregersen.dk/high-agency/)
 - [Fix ERR_MODULE_NOT_FOUND in TypeScript ESM Projects](https://www.mgregersen.dk/fix-err-module-not-found-typescript-esm/)
 - [How to Migrate from the OpenAI SDK to Vercel AI SDK](https://www.mgregersen.dk/blog-migrate-openai-sdk-to-vercel-ai-sdk/)
 - [Angular vs React: An Honest Review After 6 Years With Both](https://www.mgregersen.dk/angular-versus-react-honest-review/)
 - [How to Fix the “Nest Can’t Resolve Dependencies” Error in NestJS](https://www.mgregersen.dk/how-to-fix-the-nest-cant-resolve-dependencies-error-in-nestjs/)
+- [How I debugged Chaos in our CI pipeline](https://www.mgregersen.dk/how-i-debugged-chaos-in-our-ci-pipeline/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
