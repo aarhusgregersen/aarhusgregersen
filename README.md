@@ -80,15 +80,15 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C363%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C365%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-814%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-817%20hrs%2024%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 113.1 kB Used in GitHub's Storage 
  > 
-> 🏆 3,736 Contributions in the Year 2026
+> 🏆 3,739 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,44 +102,44 @@
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-Other                    4 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   39.71 % 
-Markdown                 2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-TypeScript               2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Other                    4 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   40.12 % 
+Markdown                 2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+TypeScript               2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 22 mins      █████████████████████████   100.00 % 
+Claude Code              11 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mono                     5 hrs 14 mins       ████████████░░░░░░░░░░░░░   46.12 % 
-cleaning                 4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.49 % 
-formio-backend           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-flow-engine              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-docker                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+mono                     5 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.96 % 
+cleaning                 4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.81 % 
+formio-backend           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+flow-engine              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+dotfiles                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 💻 Operating System: 
-Mac                      11 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 22 mins (100.0%)
+⏱ AI Coding Time: 11 hrs 1 min (100.0%)
 
-✍️ 4,866 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,817 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 15,280,660 Input Tokens, 1,395,824 Output Tokens
+🔤 14,301,734 Input Tokens, 1,361,520 Output Tokens
 
-💵 $177.38 Estimated AI Cost This Week
+💵 $171.26 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 130 AI Prompts
+🧠 55 AI Sessions, 118 AI Prompts
 
-Opus                     5,991 lines         █████████████████████████   100.00 % 
+Opus                     5,941 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,415 characters per prompt
+📚 Verbose Prompter — average 2,411 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -157,7 +157,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 01:23:36 UTC
+ Last Updated on 27/10/2026 02:11:19 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
