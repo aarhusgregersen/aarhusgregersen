@@ -86,9 +86,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 113.1 kB Used in GitHub's Storage 
+> 📦 113.5 kB Used in GitHub's Storage 
  > 
-> 🏆 3,739 Contributions in the Year 2026
+> 🏆 3,748 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,46 +102,47 @@
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-Other                    4 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   40.12 % 
-Markdown                 2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-TypeScript               2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Other                    4 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
+Markdown                 2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+TypeScript               2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Bash                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 1 min        █████████████████████████   100.00 % 
+Claude Code              11 hrs 19 mins      ████████████████████████░   97.00 % 
+VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🐱‍💻 Projects: 
-mono                     5 hrs 10 mins       ████████████░░░░░░░░░░░░░   46.96 % 
-cleaning                 4 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   40.81 % 
-formio-backend           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-flow-engine              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-dotfiles                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+cleaning                 4 hrs 58 mins       ███████████░░░░░░░░░░░░░░   42.65 % 
+mono                     4 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   37.19 % 
+formio-backend           1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+flow-engine              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+formio-builder           17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 💻 Operating System: 
-Mac                      11 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      11 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 1 min (100.0%)
+⏱ AI Coding Time: 11 hrs 19 mins (97.02%)
 
-✍️ 4,817 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,172 lines written by AI, 10 lines written by hand (99.81% AI-written)
 
-🔤 14,301,734 Input Tokens, 1,361,520 Output Tokens
+🔤 14,955,819 Input Tokens, 1,437,640 Output Tokens
 
-💵 $171.26 Estimated AI Cost This Week
+💵 $181.18 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 118 AI Prompts
+🧠 56 AI Sessions, 126 AI Prompts
 
-Opus                     5,941 lines         █████████████████████████   100.00 % 
+Opus                     6,481 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,411 characters per prompt
+🤖 AI-Driven — 99.81% of written lines came from AI
+📚 Verbose Prompter — average 1,883 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0.15% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -157,7 +158,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 02:11:19 UTC
+ Last Updated on 28/10/2026 02:26:16 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
