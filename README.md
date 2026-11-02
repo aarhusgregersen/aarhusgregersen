@@ -80,15 +80,15 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C371%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C372%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-823%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-825%20hrs%2035%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 113.8 kB Used in GitHub's Storage 
+> 📦 114.4 kB Used in GitHub's Storage 
  > 
-> 🏆 3,832 Contributions in the Year 2026
+> 🏆 3,881 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,47 +102,47 @@
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-TypeScript               4 hrs 55 mins       ███████████░░░░░░░░░░░░░░   45.11 % 
-Other                    1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Markdown                 1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Bash                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-JSON                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+TypeScript               7 hrs 28 mins       ██████████████░░░░░░░░░░░   55.15 % 
+Other                    2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Markdown                 1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 30 mins      ████████████████████████░   96.28 % 
-VS Code                  24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Claude Code              13 hrs 12 mins      ████████████████████████░   97.41 % 
+VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🐱‍💻 Projects: 
-cleaning                 4 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   39.43 % 
-formio-builder           3 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   30.18 % 
-formio-backend           2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-mono                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-hq                       11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+formio-builder           5 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.80 % 
+cleaning                 4 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.58 % 
+formio-backend           2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+flow-engine              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+hq                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 💻 Operating System: 
-Mac                      10 hrs 54 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 30 mins (96.3%)
+⏱ AI Coding Time: 13 hrs 12 mins (97.43%)
 
-✍️ 11,185 lines written by AI, 10 lines written by hand (99.91% AI-written)
+✍️ 16,064 lines written by AI, 10 lines written by hand (99.94% AI-written)
 
-🔤 10,387,108 Input Tokens, 1,345,541 Output Tokens
+🔤 17,081,659 Input Tokens, 1,986,160 Output Tokens
 
-💵 $160.31 Estimated AI Cost This Week
+💵 $237.25 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 127 AI Prompts
+🧠 63 AI Sessions, 209 AI Prompts
 
-Opus                     16,771 lines        █████████████████████████   100.00 % 
+Opus                     22,614 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 1,515 characters per prompt
+🤖 AI-Driven — 99.94% of written lines came from AI
+📚 Verbose Prompter — average 1,916 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.06% of changed lines were hand-edited
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -158,7 +158,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2026 02:21:56 UTC
+ Last Updated on 02/11/2026 02:37:17 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
