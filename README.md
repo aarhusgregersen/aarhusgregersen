@@ -80,15 +80,15 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C372%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C377%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-825%20hrs%2035%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-830%20hrs%2036%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 114.4 kB Used in GitHub's Storage 
+> 📦 114.5 kB Used in GitHub's Storage 
  > 
-> 🏆 3,881 Contributions in the Year 2026
+> 🏆 3,886 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,45 +102,45 @@
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-TypeScript               7 hrs 28 mins       ██████████████░░░░░░░░░░░   55.15 % 
-Other                    2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Markdown                 1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+TypeScript               8 hrs 29 mins       ██████████████░░░░░░░░░░░   56.78 % 
+Markdown                 2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Other                    2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 12 mins      ████████████████████████░   97.41 % 
-VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Claude Code              14 hrs 36 mins      ████████████████████████░   97.66 % 
+VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🐱‍💻 Projects: 
-formio-builder           5 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   40.80 % 
-cleaning                 4 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.58 % 
-formio-backend           2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-flow-engine              34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-hq                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+formio-builder           5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.96 % 
+cleaning                 5 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.25 % 
+formio-backend           2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+flow-engine              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+hq                       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 💻 Operating System: 
-Mac                      13 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 12 mins (97.43%)
+⏱ AI Coding Time: 14 hrs 36 mins (97.67%)
 
-✍️ 16,064 lines written by AI, 10 lines written by hand (99.94% AI-written)
+✍️ 16,967 lines written by AI, 10 lines written by hand (99.94% AI-written)
 
-🔤 17,081,659 Input Tokens, 1,986,160 Output Tokens
+🔤 19,221,493 Input Tokens, 2,142,107 Output Tokens
 
-💵 $237.25 Estimated AI Cost This Week
+💵 $258.40 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 209 AI Prompts
+🧠 75 AI Sessions, 241 AI Prompts
 
-Opus                     22,614 lines        █████████████████████████   100.00 % 
+Opus                     24,535 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 1,916 characters per prompt
+📚 Verbose Prompter — average 1,695 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
@@ -158,7 +158,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2026 02:37:17 UTC
+ Last Updated on 03/11/2026 03:57:34 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
