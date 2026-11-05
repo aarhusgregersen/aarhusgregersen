@@ -80,11 +80,15 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C382%20hrs%2034%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-836%20hrs%2036%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 114.5 kB Used in GitHub's Storage 
  > 
-> 🏆 3,913 Contributions in the Year 2026
+> 🏆 3,917 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,55 +96,6 @@
  > 
 > 🔑 28 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Copenhagen
-
-💬 Programming Languages: 
-TypeScript               11 hrs 13 mins      ████████████████░░░░░░░░░   62.16 % 
-Markdown                 2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Other                    2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-
-🔥 Editors: 
-Claude Code              18 hrs 2 mins       █████████████████████████   99.96 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🐱‍💻 Projects: 
-cleaning                 8 hrs 30 mins       ████████████░░░░░░░░░░░░░   47.09 % 
-formio-builder           5 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-formio-backend           2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-flow-engine              1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-hq                       41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-
-💻 Operating System: 
-Mac                      18 hrs 3 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 18 hrs 3 mins (99.99%)
-
-✍️ 21,687 lines written by AI, 3 lines written by hand (99.99% AI-written)
-
-🔤 22,713,071 Input Tokens, 2,666,906 Output Tokens
-
-💵 $302.96 Estimated AI Cost This Week
-
-🧠 91 AI Sessions, 312 AI Prompts
-
-Opus                     29,798 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 2,027 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -154,7 +109,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2026 03:03:32 UTC
+ Last Updated on 05/11/2026 03:34:10 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
