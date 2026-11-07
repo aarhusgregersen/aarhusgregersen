@@ -80,15 +80,15 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C383%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C383%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-837%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-839%20hrs%206%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 114.5 kB Used in GitHub's Storage 
  > 
-> 🏆 3,937 Contributions in the Year 2026
+> 🏆 3,942 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,48 +102,48 @@
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-TypeScript               10 hrs 53 mins      ██████████████░░░░░░░░░░░   56.99 % 
-Other                    3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Markdown                 2 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-SQL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+TypeScript               8 hrs 21 mins       █████████████░░░░░░░░░░░░   53.48 % 
+Other                    3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Markdown                 2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+SQL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-Claude Code              19 hrs 5 mins       █████████████████████████   99.80 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Claude Code              15 hrs 35 mins      █████████████████████████   99.75 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-cleaning                 9 hrs 5 mins        ████████████░░░░░░░░░░░░░   47.58 % 
-formio-builder           4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-hq                       2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-formio-backend           1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-flow-engine              1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+cleaning                 8 hrs 34 mins       ██████████████░░░░░░░░░░░   54.84 % 
+hq                       2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+formio-builder           2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+flow-engine              1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+formio-backend           45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 💻 Operating System: 
-Mac                      19 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 7 mins (99.99%)
+⏱ AI Coding Time: 15 hrs 37 mins (99.98%)
 
-✍️ 21,651 lines written by AI, 3 lines written by hand (99.99% AI-written)
+✍️ 13,265 lines written by AI, 3 lines written by hand (99.98% AI-written)
 
-🔤 25,961,518 Input Tokens, 2,813,762 Output Tokens
+🔤 22,512,317 Input Tokens, 2,128,893 Output Tokens
 
-💵 $320.69 Estimated AI Cost This Week
+💵 $240.57 Estimated AI Cost This Week
 
-🧠 104 AI Sessions, 341 AI Prompts
+🧠 99 AI Sessions, 312 AI Prompts
 
-Opus                     29,484 lines        █████████████████████████   100.00 % 
+Opus                     17,251 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.99% of written lines came from AI
-📚 Verbose Prompter — average 2,293 characters per prompt
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 2,494 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -159,7 +159,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2026 03:29:22 UTC
+ Last Updated on 07/11/2026 02:57:23 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
