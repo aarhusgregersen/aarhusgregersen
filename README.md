@@ -80,15 +80,15 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C383%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C384%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-839%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-839%20hrs%2034%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 114.5 kB Used in GitHub's Storage 
  > 
-> 🏆 3,942 Contributions in the Year 2026
+> 🏆 3,954 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,46 +102,46 @@
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-TypeScript               8 hrs 21 mins       █████████████░░░░░░░░░░░░   53.48 % 
-Other                    3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Markdown                 2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-SQL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+TypeScript               7 hrs 40 mins       █████████████░░░░░░░░░░░░   50.75 % 
+Other                    2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Markdown                 2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+JSON                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+SQL                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 35 mins      █████████████████████████   99.75 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Claude Code              15 hrs 4 mins       █████████████████████████   99.74 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Notion                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-cleaning                 8 hrs 34 mins       ██████████████░░░░░░░░░░░   54.84 % 
-hq                       2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-formio-builder           2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-flow-engine              1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-formio-backend           45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+cleaning                 8 hrs 35 mins       ██████████████░░░░░░░░░░░   56.89 % 
+hq                       3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+formio-builder           1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+flow-engine              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+formio-backend           36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 
 💻 Operating System: 
-Mac                      15 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 37 mins (99.98%)
+⏱ AI Coding Time: 15 hrs 6 mins (99.98%)
 
-✍️ 13,265 lines written by AI, 3 lines written by hand (99.98% AI-written)
+✍️ 12,147 lines written by AI, 3 lines written by hand (99.98% AI-written)
 
-🔤 22,512,317 Input Tokens, 2,128,893 Output Tokens
+🔤 22,861,767 Input Tokens, 2,127,784 Output Tokens
 
-💵 $240.57 Estimated AI Cost This Week
+💵 $234.16 Estimated AI Cost This Week
 
-🧠 99 AI Sessions, 312 AI Prompts
+🧠 100 AI Sessions, 309 AI Prompts
 
-Opus                     17,251 lines        █████████████████████████   100.00 % 
+Opus                     15,675 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 2,494 characters per prompt
+📚 Verbose Prompter — average 2,519 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
@@ -159,7 +159,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2026 02:57:23 UTC
+ Last Updated on 08/11/2026 02:34:21 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
