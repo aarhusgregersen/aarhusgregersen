@@ -80,15 +80,15 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C395%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C395%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-853%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-854%20hrs%205%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 114.6 kB Used in GitHub's Storage 
  > 
-> 🏆 4,041 Contributions in the Year 2026
+> 🏆 4,071 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,45 +102,45 @@
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-TypeScript               3 hrs 48 mins       ██████████████░░░░░░░░░░░   57.44 % 
-Markdown                 1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-Other                    41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-Astro                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+TypeScript               5 hrs 2 mins        █████████████░░░░░░░░░░░░   51.55 % 
+Markdown                 2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Other                    1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 38 mins       █████████████████████████   100.00 % 
+Claude Code              9 hrs 46 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cleaning                 4 hrs 50 mins       ██████████████████░░░░░░░   73.02 % 
-hq                       1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-mgregersendk             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-worktree-cli             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-formio                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+cleaning                 6 hrs 5 mins        ████████████████░░░░░░░░░   62.31 % 
+hq                       2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+mono                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+claude-marketplace       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+worktree-cli             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Mac                      6 hrs 38 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 38 mins (100.0%)
+⏱ AI Coding Time: 9 hrs 46 mins (100.0%)
 
-✍️ 5,224 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,589 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 12,658,055 Input Tokens, 1,111,314 Output Tokens
+🔤 16,584,298 Input Tokens, 1,432,800 Output Tokens
 
-💵 $122.90 Estimated AI Cost This Week
+💵 $155.36 Estimated AI Cost This Week
 
-🧠 63 AI Sessions, 164 AI Prompts
+🧠 101 AI Sessions, 250 AI Prompts
 
-Opus                     6,150 lines         █████████████████████████   100.00 % 
+Opus                     8,494 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,736 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📚 Verbose Prompter — average 3,376 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -157,7 +157,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2026 03:50:15 UTC
+ Last Updated on 24/11/2026 06:59:24 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
