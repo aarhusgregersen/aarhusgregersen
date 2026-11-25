@@ -80,15 +80,15 @@
 ### ⚡ WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C395%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C398%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-854%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-858%20hrs%2023%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 114.6 kB Used in GitHub's Storage 
  > 
-> 🏆 4,071 Contributions in the Year 2026
+> 🏆 4,081 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,45 +102,45 @@
 🕑︎ Time Zone: Europe/Copenhagen
 
 💬 Programming Languages: 
-TypeScript               5 hrs 2 mins        █████████████░░░░░░░░░░░░   51.55 % 
-Markdown                 2 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Other                    1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+TypeScript               6 hrs 2 mins        ██████████████░░░░░░░░░░░   54.06 % 
+Markdown                 2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+Other                    1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 46 mins       █████████████████████████   100.00 % 
+Claude Code              11 hrs 10 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cleaning                 6 hrs 5 mins        ████████████████░░░░░░░░░   62.31 % 
-hq                       2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-mono                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-claude-marketplace       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-worktree-cli             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+cleaning                 7 hrs 28 mins       █████████████████░░░░░░░░   66.85 % 
+hq                       2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+mono                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+claude-marketplace       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+worktree-cli             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Mac                      9 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 10 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 46 mins (100.0%)
+⏱ AI Coding Time: 11 hrs 10 mins (100.0%)
 
-✍️ 6,589 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,333 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 16,584,298 Input Tokens, 1,432,800 Output Tokens
+🔤 16,581,964 Input Tokens, 1,598,147 Output Tokens
 
-💵 $155.36 Estimated AI Cost This Week
+💵 $165.04 Estimated AI Cost This Week
 
-🧠 101 AI Sessions, 250 AI Prompts
+🧠 106 AI Sessions, 273 AI Prompts
 
-Opus                     8,494 lines         █████████████████████████   100.00 % 
+Opus                     11,553 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,376 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 3,133 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -157,7 +157,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2026 06:59:24 UTC
+ Last Updated on 25/11/2026 05:31:13 UTC
 <!--END_SECTION:waka-->
 
 [website]: https://mgregersen.dk
